@@ -1,9 +1,9 @@
 
-const add = (a, b) => {
+function add(a, b) {
     return a + b;
 }
 
-const sub = (a, b) => {
+function sub(a, b) {
     return a - b;
 }
 
